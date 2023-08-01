@@ -1,4 +1,5 @@
 Name: Bunmi Ogundare
+Email:bunmi.ogundare@jpress.co.uk
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
